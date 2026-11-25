@@ -1,0 +1,46 @@
+## dat
+3
+0 1 2 
+# connected_inputs
+2
+0 1 
+# task_type
+-1
+# model_type
+0
+# classification_classes
+0
+# regression_min
+0
+# regression_max
+1
+# regression_limit
+0
+# mlp_hidden_layers
+1
+# mlp_nodes_per_hidden_layer
+0
+# mlp_learning_rate
+0.01
+# mlp_epochs
+100
+# knn_k
+1
+# record_status
+1
+# run_status
+1
+# train_status
+1
+# mlp
+# layers
+2 2 1 
+# activation functions (0=Linear, 1=Sigmoid, 2=ReLU, 3=Tanh, 4=Softmax)
+1 0 
+# weights
+0.04x9801 0.815067 
+0.198674 0.523874 
+0.329373 -0.0920662 
+# biases
+-0.%0100435 0.471405 
+0.543095 
